@@ -12,27 +12,30 @@ menu() {
 # Move
 move() {
     # localizar ficheiro
-    echo "Escreva o caminho de dirétoria onde se encontra o ficheiro que deseja mover. "
+    echo "Escreva o caminho de diretória onde se encontra o ficheiro que deseja mover. "
     echo "Escreva o nome do ficheiro que deseja mover: "
 
     # mover
+    echo "Escreva o caminho de diretória destino do ficheiro: "
 }
 
 # Copy
 copy() {
     # localizar ficheiro
-    echo "Escreva o caminho de dirétoria onde se encontra o ficheiro que deseja copiar. "
+    echo "Escreva o caminho de diretória onde se encontra o ficheiro que deseja copiar. "
     echo "Escreva o nome do ficheiro que deseja copiar: "
 
     # colar
+    echo "Escreva o caminho de diretória destino do ficheiro: "
 }
 
 # Order
 order() {
-    # escolher dirétoria
-    echo "Escreva o caminho de dirétoria que deseja organisar: "
+    # escolher diretória
+    echo "Escreva o caminho de diretória que deseja organisar: "
 
     # escolher opção
+    echo "Escolha um método de organisação: "
 }
 
 
