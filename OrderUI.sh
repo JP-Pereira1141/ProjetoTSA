@@ -1,9 +1,9 @@
 #!/usr/bin/bash
 
 # Menu de escolha.
-echo -e "\e[1;34m============================"
-echo -e " Bem vindo, faça a sua escolha:      "
-echo -e "============================\e[0m"
+echo -e "\e[1;34m================================="
+echo -e "  Bem vindo, faça a sua escolha:      "
+echo -e "=================================\e[0m"
 echo "1) Mover Ficheiro"
 echo "2) Copiar ficheiro"
 echo "3) Ordenar ficheiros"
