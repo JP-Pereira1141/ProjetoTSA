@@ -2,7 +2,7 @@
 
 # Menu de escolha.
 echo -e "\e[1;34m============================"
-echo -e "        Bem vindo, faça a sua escolha:      "
+echo -e " Bem vindo, faça a sua escolha:      "
 echo -e "============================\e[0m"
 echo "1) Mover Ficheiro"
 echo "2) Copiar ficheiro"
@@ -15,6 +15,6 @@ case $opcao in
     1) echo "Opção 1 selecionada";;
     2) echo "Opção 2 selecionada";;
     3) echo "Opção 3 selecionada";;
-    4) echo "Opção 4 selecionada";;
+    4) echo "Opção 4 selecionada, a sair do programa...";;
     *) echo "Opção inválida";;
 esac
